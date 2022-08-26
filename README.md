@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skanda Sharma</h1>
 <h3 align="center">Tech Enthusiast and a freelance video editor</h3>
 
-- 🔭 I’m currently working on **FARMACY - Online Store**
+- 👨🏻‍💻 I’m currently working at **Cerner** as Software Engineer
 
 - 🌱 I’m currently learning **Flask, Servlet, Vue.js**
 
